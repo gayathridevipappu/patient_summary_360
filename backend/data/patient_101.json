@@ -1,0 +1,16 @@
+{
+    "id": 101,
+    "demographics": {
+      "name": "Anitha Reddy",
+      "age": 32,
+      "gender": "Female"
+    },
+    "claims": [
+      { "id": "C1", "status": "ACTIVE" },
+      { "id": "C2", "status": "CLOSED" }
+    ],
+    "orders": [
+      { "id": "O1", "status": "SHIPPED" }
+    ]
+  }
+  

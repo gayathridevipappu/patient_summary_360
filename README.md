@@ -1,4 +1,4 @@
-# 🏥 Patient 360 Summary App
+# Patient 360 Summary App
 
 An AI-powered healthcare data summarization platform that aggregates
 patient records and generates a structured 360° summary using FastAPI,
@@ -6,7 +6,7 @@ React, and an LLM (Ollama or OpenAI).
 
 ------------------------------------------------------------------------
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -27,7 +27,7 @@ React, and an LLM (Ollama or OpenAI).
 
 ------------------------------------------------------------------------
 
-# 🖥️ Run Backend Locally
+# Run Backend Locally
 
 ## 1️⃣ Clone the repository
 
